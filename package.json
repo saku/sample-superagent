@@ -1,0 +1,16 @@
+{
+  "name": "smp",
+  "version": "0.0.1",
+  "description": "smp",
+  "main": "index.coffee",
+  "scripts": {
+    "start": "./node_modules/coffee-script/bin/coffee server.coffee"
+  },
+  "author": "Akira Miki",
+  "license": "Proprietary",
+  "dependencies": {
+    "bunyan": "^1.2.3",
+    "coffee-script": "^1.8.0",
+    "superagent": "^0.21.0"
+  }
+}
